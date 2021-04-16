@@ -13,6 +13,6 @@ To find my data, I typed in Google search “top equesterian riders” and after
 
 
 ### Analysis
-I wanted to found out if the age of the riders correlates to their current rank. 
+I wanted to found out if the age of the riders correlates to their current rank. For that
 
 
