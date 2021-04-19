@@ -1,0 +1,28 @@
+---
+title: "Untitled"
+author: "Anastasiia Goncharenko"
+date: "4/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library('tidyverse')
+setwd("~/Desktop/Office/University 🏫/Spring 21/DATA 115")
+BR <- read.csv('Personal Project DATA 115.csv')
+```
+```{r DataLoad}
+head(BR)
+```
+```{r Plot}
+ggplot(BR, aes(x=Age,y=Rank,color=Gender)) +
+  geom_point()+
+  geom_text(
+    label=(BR$Name),
+    check_overlap = T
+  )
+
+
+```
+
+
