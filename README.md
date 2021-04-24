@@ -12,7 +12,7 @@ To find my data, I typed in Google search “top equesterian riders” and after
 
 ### Visualization
 
-For my visualization, I have chosen to make a scatterplot comparing the Age and the Rank of the best riders. Doing so I will try to see if there are any clusters, patterns, correlations, or linear regressions. I have the Rank of the Y-axis and Age on the X-axis showing the respective data. I have labeled points by rider's name and have collected them based on their gender for no specific reason.
+For my visualization, I have chosen to make a scatterplot comparing the Age and the Rank of the best riders. Doing so I will try to see if there are any clusters, patterns, correlations, or linear regressions. I have the Rank of the Y-axis and Age on the X-axis showing the respective data. I have labeled points by rider's name and have collected them based on their gender.
 ![image](https://user-images.githubusercontent.com/79562073/115185609-09356e80-a095-11eb-8922-916b30d38e97.png)
 
 
