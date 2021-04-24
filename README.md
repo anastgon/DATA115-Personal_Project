@@ -18,7 +18,7 @@ For my visualization, I have chosen to make a scatterplot comparing the Age and 
 
 ### Analysis
 
-I wanted to found out if the age of the riders correlates to their current rank. For that, I have made a scatterplot comparing their rank to the age they have stopped competing. Analyzing this graph I have noticed that there is some clustering in the first 6 ranks with riders' age being between the early 40s to early 50s. Furthermore, lower ranks being in their late 30s and having an outlier (Andrew Hoy). Further research would be needed with a larger dataset of the riders to see if the same pathers occur. 
+I wanted to found out if the age of the riders correlates to their current rank. For that, I have made a scatterplot comparing their rank to the age they have stopped competing. Analyzing this graph I have noticed that there is some clustering in the first 6 ranks with riders' age being between the early 40s to early 50s. Furthermore, lower ranks being in their late 30s and having an outlier (Andrew Hoy). Further research would be needed with a larger dataset of the riders to see if the same patterns occur. 
 
 # Descriptions of Code and Materials
 
